@@ -1,1 +1,1 @@
-FROM  jaffas.jfrog.io/$js-docker/ubuntu:16.04
+FROM  jaffas.jfrog.io/js-docker/ubuntu:16.04
